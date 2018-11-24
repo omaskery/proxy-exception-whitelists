@@ -1,0 +1,97 @@
+rustup:
+  tags:
+    - programming
+    - language=rust
+    - updater
+  domains:
+    - static.rust-lang.org
+cargo:
+  tags:
+    - programming
+    - package-manager
+    - language=rust
+  domains:
+    - api.github.com
+    - crates.io
+    - github.com
+    - static.crates.io
+nuget:
+  tags:
+    - programming
+    - package-manager
+    - language=C#
+    - language=F#
+  domains:
+    - dc.services.visualstudio.com
+    - api.nuget.org
+    - api-v2v3search-0.nuget.org
+asp.net:
+  tags:
+    - programming
+    - language=C#
+    - language=F#
+    - framework
+    - runtime=dotnetcore
+  domains:
+    - www.aspnetboilerplate.com
+visual studio 2017:
+  tags:
+    - programming
+    - IDE
+  domains:
+    - login.microsoftonline.com
+    - login.live.com
+    - auth.gfx.ms
+    - app.vssps.visualstudio.com
+    - api.vstusers.visualstudio.com
+    - download.visualstudio.microsoft.com
+    - go.microsoft.com
+    - marketplace.visualstudio.com
+    - dc.services.visualstudio.com
+    - visualstudio-devdiv-c2s.msedge.net
+    - vsstartpage.blob.core.windows.net
+    - aka.ms
+visual studio code:
+  tags:
+    - programming
+    - IDE
+  domains:
+    - ms-vscode.gallerycdn.vsassets.io
+    - vscode-update.azurewebsites.net
+    - update.code.visualstudio.com
+npm:
+  tags:
+    - programming
+    - package-manager
+    - language=javascript
+    - language=typescript
+    - runtime=node.js
+  domains:
+    - registry.npmjs.org
+pip:
+  tags:
+    - programming
+    - package-manager
+    - language=python
+  domains:
+    - pypi.org
+    - files.pythonhosted.org
+intellij:
+  tags:
+    - programming
+    - IDE
+  domains:
+    - www.jetbrains.com
+    - plugins.jetbrains.com
+    - download.jetbrains.com
+    - download-cf.jetbrains.com
+gradle:
+  tags:
+    - programming
+    - package-manager
+    - language=java
+    - language=kotlin
+  domains:
+    - services.gradle.org
+    - downloads.gradle.org
+    - repo.maven.apache.org
